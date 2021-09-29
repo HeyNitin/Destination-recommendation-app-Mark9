@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: -8px;
+  margin-top: -22px;
+}
+
+body {
+  background-color: rgb(199, 215, 221);
+}
+
+h1 {
+  background-color: lightblue;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+hr {
+  max-width: 350px;
+  margin-bottom: 1rem;
+}
+
+ol {
+  margin: auto;
+}
+
+button {
+  padding: 0.3rem 1rem;
+  margin: 10px;
+  border-radius: 1rem;
+}
+
+li {
+  border: 1px solid black;
+  padding: 0.5rem;
+  width: 15rem;
+  border-radius: 0.5rem;
+  margin: auto;
+}

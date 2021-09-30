@@ -12,9 +12,13 @@ export default function App() {
           <div> Rating: 5/5</div>
         </li>
 
-        <li>
+        <li style={{ marginBottom: "1rem" }}>
           Sri Lanka
           <div> Rating: 3.5/5</div>
+        </li>
+        <li>
+          Nepal
+          <div> Rating: 4.5/5</div>
         </li>
       </ol>
     );
@@ -27,9 +31,13 @@ export default function App() {
           Spain
           <div> Rating: 4/5</div>
         </li>
-        <li>
+        <li style={{ marginBottom: "1rem" }}>
           UK
           <div> Rating: 3.5/5</div>
+        </li>
+        <li>
+          France
+          <div> Rating: 4/5</div>
         </li>
       </ol>
     );
@@ -43,8 +51,12 @@ export default function App() {
           <div> Rating: 4/5</div>
         </li>
 
-        <li>
+        <li style={{ marginBottom: "1rem" }}>
           Canada
+          <div> Rating: 3/5</div>
+        </li>
+        <li>
+          Cuba
           <div> Rating: 3/5</div>
         </li>
       </ol>
